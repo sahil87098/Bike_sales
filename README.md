@@ -34,10 +34,3 @@ In the initial data preparation phase, we performed the following tasks:
 4. Reporting and Presentation
 - Presented data patterns using Excel's visualization features in an understandable and engaging way. This allowed stakeholders to swiftly grasp key points, resulting in more informed decision-making.
 - Created a report outlining the project's conclusions, including information on travel patterns, demographic trends, and how money affects buying decisions.
-
-
-### Exploratory data analysis
-
-- What demographic factors are most associated with bike purchases?
-- How does income influence the likelihood of purchasing a bike?
-- Is there a regional variation in bike purchase behavior?
