@@ -20,3 +20,9 @@ In the initial data preparation phase, we performed the following tasks:
 - Advanced dta segmentation.
 - Insightful Data Visualization.
 - Reporting and Presentation
+
+### Exploratory data analysis
+
+- What demographic factors are most associated with bike purchases?
+- How does income influence the likelihood of purchasing a bike?
+- Is there a regional variation in bike purchase behavior?
