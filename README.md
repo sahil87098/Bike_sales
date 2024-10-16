@@ -16,7 +16,10 @@ Sales Data: The primary dataset use for this analysis is "Bike_sales.xlsx" file,
 
 In the initial data preparation phase, we performed the following tasks:
 
-- Data cleaning and formatting.
+1. Data cleaning and formatting.
+- Processed and organized data, such as buying patterns, income levels, and demographics, across several sheets.
+- Used data cleansing procedures to maintain consistency, allowing for accurate analysis and reporting.
+
 - Advanced dta segmentation.
 - Insightful Data Visualization.
 - Reporting and Presentation
