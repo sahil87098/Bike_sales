@@ -16,7 +16,7 @@ Sales Data: The primary dataset use for this analysis is "Bike_sales.xlsx" file,
 
 In the initial data preparation phase, we performed the following tasks:
 
--Data cleaning and formatting.
--Advanced dta segmentation.
--Insightful Data Visualization.
--Reporting and Presentation
+- Data cleaning and formatting.
+- Advanced dta segmentation.
+- Insightful Data Visualization.
+- Reporting and Presentation
