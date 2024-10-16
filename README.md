@@ -6,7 +6,7 @@ Performed a thorough analysis of consumer data related to bike purchases, emphas
 
 ### Data Sources
 
-Sales Data: The primary dataset use for this analysis is "Bike_sales.xlsx" file, containing detailed information about each slae.
+Sales Data: The primary dataset use for this analysis is "Bike_sales.xlsx" file, containing detailed information about each salee.
 
 ### Tool
 
@@ -15,7 +15,7 @@ Sales Data: The primary dataset use for this analysis is "Bike_sales.xlsx" file,
 ### Data Cleaning/Visualization
 
 In the initial data preparation phase, we performed the following tasks:
-Data cleaning and formatting.
-Advanced dta segmentation.
-Insightful Data Visualization.
-Reporting and Presentation
+-Data cleaning and formatting.
+-Advanced dta segmentation.
+-Insightful Data Visualization.
+-Reporting and Presentation
